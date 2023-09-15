@@ -1,0 +1,9 @@
+Select * from Employee where dept="QA";
+
+ 
+
+Select * from Employee;
+
+ 
+
+Select * from Employee where "Java" IN technology;
